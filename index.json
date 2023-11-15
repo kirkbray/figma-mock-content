@@ -13,5 +13,9 @@
             "name": "Addresses",
             "path": "addresses.txt"
         }
+        {
+            "name": "Clients/PA",
+            "path": "bands-pa.txt"
+        }
     ]
 }
