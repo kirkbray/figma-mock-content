@@ -14,7 +14,7 @@
             "path": "addresses.txt"
         }
         {
-            "name": "Clients/PA",
+            "name": "Clients-PA",
             "path": "bands-pa.txt"
         }
     ]
